@@ -207,7 +207,7 @@ Customer-Service-Analysis/
 
 ## 📥 Project Files
 
-- [Download the Excel Analysis](Customer_Service_Project.xlsx)
+- ![Download the Excel Analysis](Customer_Service_Project.xlsx)
 - ![View the Dashboard](customer_service_performance_dashboard.jpg)
 - ![View the Pivot Analysis](customer_service_performance_PivotTables.jpg)
 - ![View the Data Overview](customer_service_performance_DataOverview.jpg)
